@@ -1,0 +1,17 @@
+C:\Users\abja\iPhoneBluetoothDetector\bin\Release\net10.0-windows10.0.19041.0\iPhoneBluetoothDetector.exe
+C:\Users\abja\iPhoneBluetoothDetector\bin\Release\net10.0-windows10.0.19041.0\iPhoneBluetoothDetector.deps.json
+C:\Users\abja\iPhoneBluetoothDetector\bin\Release\net10.0-windows10.0.19041.0\iPhoneBluetoothDetector.runtimeconfig.json
+C:\Users\abja\iPhoneBluetoothDetector\bin\Release\net10.0-windows10.0.19041.0\iPhoneBluetoothDetector.dll
+C:\Users\abja\iPhoneBluetoothDetector\bin\Release\net10.0-windows10.0.19041.0\iPhoneBluetoothDetector.pdb
+C:\Users\abja\iPhoneBluetoothDetector\bin\Release\net10.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\abja\iPhoneBluetoothDetector\bin\Release\net10.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\abja\iPhoneBluetoothDetector\obj\Release\net10.0-windows10.0.19041.0\iPhoneBluetoothDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abja\iPhoneBluetoothDetector\obj\Release\net10.0-windows10.0.19041.0\iPhoneBluetoothDetector.AssemblyInfoInputs.cache
+C:\Users\abja\iPhoneBluetoothDetector\obj\Release\net10.0-windows10.0.19041.0\iPhoneBluetoothDetector.AssemblyInfo.cs
+C:\Users\abja\iPhoneBluetoothDetector\obj\Release\net10.0-windows10.0.19041.0\iPhoneBluetoothDetector.csproj.CoreCompileInputs.cache
+C:\Users\abja\iPhoneBluetoothDetector\obj\Release\net10.0-windows10.0.19041.0\iPhoneBl.B2CC792A.Up2Date
+C:\Users\abja\iPhoneBluetoothDetector\obj\Release\net10.0-windows10.0.19041.0\iPhoneBluetoothDetector.dll
+C:\Users\abja\iPhoneBluetoothDetector\obj\Release\net10.0-windows10.0.19041.0\refint\iPhoneBluetoothDetector.dll
+C:\Users\abja\iPhoneBluetoothDetector\obj\Release\net10.0-windows10.0.19041.0\iPhoneBluetoothDetector.pdb
+C:\Users\abja\iPhoneBluetoothDetector\obj\Release\net10.0-windows10.0.19041.0\iPhoneBluetoothDetector.genruntimeconfig.cache
+C:\Users\abja\iPhoneBluetoothDetector\obj\Release\net10.0-windows10.0.19041.0\ref\iPhoneBluetoothDetector.dll

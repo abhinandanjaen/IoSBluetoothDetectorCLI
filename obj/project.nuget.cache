@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qLsXNp3hqb4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abja\\iPhoneBluetoothDetector\\iPhoneBluetoothDetector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abja\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
+  ],
+  "logs": []
+}
